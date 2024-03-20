@@ -1,0 +1,5 @@
+../Core/Src/BME68x/common.c:39:22:bme68x_i2c_read	40	static
+../Core/Src/BME68x/common.c:58:22:bme68x_i2c_write	72	dynamic
+../Core/Src/BME68x/common.c:77:6:bme68x_check_rslt	16	static
+../Core/Src/BME68x/common.c:116:6:bme68x_delay_us	16	static
+../Core/Src/BME68x/common.c:122:8:bme68x_interface_init	24	static

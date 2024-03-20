@@ -1,0 +1,5 @@
+common.c:39:22:bme68x_i2c_read	3
+common.c:58:22:bme68x_i2c_write	3
+common.c:77:6:bme68x_check_rslt	8
+common.c:116:6:bme68x_delay_us	2
+common.c:122:8:bme68x_interface_init	2
