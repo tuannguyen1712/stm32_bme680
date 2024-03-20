@@ -1,0 +1,13 @@
+../Core/Src/W25Q32/W25Q32.c:8:6:W25Q32_Init	24	static
+../Core/Src/W25Q32/W25Q32.c:14:6:W25Q32_CS_LOW	8	static
+../Core/Src/W25Q32/W25Q32.c:18:6:W25Q32_CS_HIGH	8	static
+../Core/Src/W25Q32/W25Q32.c:22:6:WriteEnable	16	static
+../Core/Src/W25Q32/W25Q32.c:35:6:WriteDisable	16	static
+../Core/Src/W25Q32/W25Q32.c:48:6:W25Q32_WaitEndCycle	24	static
+../Core/Src/W25Q32/W25Q32.c:67:6:W25Q32_Send_Receive	24	static
+../Core/Src/W25Q32/W25Q32.c:74:6:W25Q32_ReadData	32	static
+../Core/Src/W25Q32/W25Q32.c:90:6:W25Q32_WriteData	40	static
+../Core/Src/W25Q32/W25Q32.c:113:6:W25Q32_erase4k	24	static
+../Core/Src/W25Q32/W25Q32.c:131:6:W25Q32_erase32k	24	static
+../Core/Src/W25Q32/W25Q32.c:149:6:W25Q32_erase64k	24	static
+../Core/Src/W25Q32/W25Q32.c:167:6:W25Q32_eraseChip	16	static
